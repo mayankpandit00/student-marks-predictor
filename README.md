@@ -1,4 +1,4 @@
-# Studentm Marks Predictor
+# Student Marks Predictor
 A model that predicts the percentage of marks that a student is expected to score based upon the number of hours they studied.
 
 ## About 
